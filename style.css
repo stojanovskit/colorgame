@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(23, 23, 23);
+    color: antiquewhite;
+}
+.row{
+    margin: 0 auto;
+   margin-left: 20%;
+}
+.square{
+    width: 30%;
+    height: 100px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 1.66%;
+background-color : red;;
+}
+.green{
+    background-color: darkgreen;
+}
+
+.square:hover{
+    border-radius: 35px;
+    cursor:pointer;
+}
+#reset{
+    border: 1px red solid;
+}
+#reset:hover{
+    cursor:pointer;
+    color:gold;
+}

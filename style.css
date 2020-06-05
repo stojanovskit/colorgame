@@ -24,8 +24,12 @@ background-color : red;;
 }
 #reset{
     border: 1px red solid;
+    max-width: 50%;
+    margin: 0 auto;
 }
 #reset:hover{
     cursor:pointer;
     color:gold;
+    max-width: 30%;
+    
 }
